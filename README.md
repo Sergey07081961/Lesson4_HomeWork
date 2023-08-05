@@ -3,7 +3,7 @@ CREATE TABLE Одногрупники (
   Id INTEGER PRIMARY KEY,
   Name TEXT NOT NULL,
   Age TEXT NOT NULL,
-  Adress TEXT NOT NULL);
+  Address TEXT NOT NULL);
 
 -- insert
 INSERT INTO Одногрупники VALUES (0001, 'Сергей', '61','Уфа');
